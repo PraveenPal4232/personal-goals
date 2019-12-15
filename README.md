@@ -1,25 +1,24 @@
-# personal-goals
+# Personal Goals ✌️
 Personal goals made public :)
 
-==============
-
 # Overarching Goals for 2020: [Make an Impact](https://praveenpal4232.github.io/)
-1. JavaScript
-2. Be a Speacker
-3. Stay Experimental
-4. Setup new Blog
-5. Learn Calligraphy
-6. Finish freecodecamp certificates
+1. [ ] 🖥️ JavaScript
+2. [ ] 🎤 Be a Speacker
+3. [ ] ✍️ Setup new Blog
+4. [ ] 🧑‍🤝‍🧑 Run a Community
+5. [ ] 🌎 Attend International Conference
+6. [ ] 🔖 Finish freecodecamp certificates
 
-### Things I'll do This Week:
+### Things I'll do Every Month:
 
-- [ ] 🚀 Not yet
+- [ ] 📗 Reading Two Books
 
-### Things I'll do This Month:
+### Things I'll do Every Week:
 
-- [ ] 🚀 Not yet
+- [ ] ✍️ Writing two Blogs 
 
 ### Things I'll Do in the Future:
 
-- [ ] Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
-- [ ] Go through all of talks [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
+- [ ] ✒️ Learn Calligraphy
+- [ ] 📚 Read through all of Google's [Web Fundamentals](https://developers.google.com/web/fundamentals/)
+- [ ] 👀 Go through all of talks [Google Chrome Developers](https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw)
